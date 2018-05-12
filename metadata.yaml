@@ -1,0 +1,46 @@
+_repo: Probability_32739
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Emshwiller, Ed
+    aliases:
+    - Alexander, Ed
+    - Emshwiller, Edmund A.
+    - Emsh
+    - Emsh, Ed
+    - Willer
+    birthdate: 1925
+    deathdate: 1990
+    gutenberg_agent_id: '25412'
+    url: http://www.gutenberg.org/2009/agents/25412
+    wikipedia: http://en.wikipedia.org/wiki/Ed_Emshwiller
+covers:
+- cover_type: archival
+  image_path: 32739-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Trimble, Louis
+    alias: Trimble, Louis Preston
+    birthdate: 1917
+    deathdate: 1988
+    gutenberg_agent_id: '36013'
+    url: http://www.gutenberg.org/2009/agents/36013
+description: If you ever get to drinking beer in your favorite saloon and meet a scared
+  little guy who wants to buy you the joint, supply you with fur coats and dolls and
+  run you for Congress-listen well! That is, if you really want the joint, the fur
+  coats, the dolls and a seat in Congress. Just ask Mike Murphy ...
+gutenberg_issued: '2010-06-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32739'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Time travel -- Fiction'
+title: Probability
+url: http://www.gutenberg.org/ebooks/32739
